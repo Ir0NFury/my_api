@@ -1,0 +1,17 @@
+# /node_modules/* and /bower_components/* in the project root are ignored by default
+public/
+dist/
+.vscode/
+build/*
+.eslintrc
+.huskyrc
+.gitignore
+README.md
+package.json
+package-lock.json
+yarn.lock
+yarn-error.log
+jest.config.js
+jest.setup.ts
+webpack*
+/node_modules
